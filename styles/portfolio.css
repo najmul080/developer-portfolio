@@ -201,3 +201,45 @@ border-bottom: #181818;
     text-align: center;
     margin-top: 50px;
 }
+.lastpart{
+    background: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 30px;
+   
+}
+.lastpart1{
+    display: flex;
+    gap: 117px;
+   
+}
+
+.lastpart .titlelastpart{
+    text-align: left;
+}
+.robin{
+    font-weight: 700;
+font-size: 35px;
+color: #181818;
+margin-bottom: 28px;
+}
+input{
+    margin-bottom: 24px;
+    border: 0px;
+    
+   
+}
+textarea{
+    margin-bottom: 24px;
+}
+.titlelastpart{
+    font-weight: 700;
+font-size: 35px;
+color: #181818;
+margin-bottom: 20px;
+}
+.lastpartdis{
+    font-weight: 400;
+font-size: 16px;
+color: #474747;
+margin-bottom: 30px;
+}
